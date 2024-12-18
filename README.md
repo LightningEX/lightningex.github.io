@@ -6,6 +6,6 @@ The original creator is here: https://github.com/expgames
 # Announcements:
 This area is where I will announce stuff, duh.
 
-Fixed the website!! Workin on this in class since i finsished my first final! Gonna work on this some more in an hour or two. Oh yeah, and im trying to add subway surfers! Wish me luck!!
-12.18.24
-10:04 AM MST
+I ALMOST got Subway Surfers up! There is one file that is 27MB, so its too big to upload through the Github website, which Im using. I'll see if I can download the desktop version but I might not be able to since Im doing all this from my school compute. If anyone was wondering, yes Im still in class and I juts finished my last final for today!
+12.18.24 
+1:27 PM MST
