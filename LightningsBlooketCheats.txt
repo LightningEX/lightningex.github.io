@@ -1,11 +1,11 @@
 /* Follow these steps to activate the cheats:
-1. Open the Blooket website on Chrome and join a game. You'll want to be on the blook select screen.
+1. Open the Blooket website on Chrome (or Edge if Inspect is unblocked) and join a game. You'll want to be on the blook select screen.
 2. Right-click with a mouse or middle-click (click with two fingers) on the page.
 3. Scroll down the list of options and select Inspect.
 4. Wait for the terminal to load and click Console in the top scroll bar.
 5. In the console, type allow pasting and then hit enter. You only need to do this step once and then you can ignore it any other time you do this.
-6. Copy the code in this file by pressing Ctrl+A then Ctrl+C.
-7. Go back to the console and paste the code in with Ctrl+V and hit enter. */
+6. Copy the code in this file by pressing Ctrl+A then Ctrl+C (its okay if you copy the steps too).
+7. Go back to the console and paste the code in with Ctrl+V and hit enter. If everything works, you will either get a pop-up or the cheats will activate. If you get the pop-up, just click the OK button. */
 
 (() => {
     let iframe = document.querySelector("iframe");
