@@ -1,7 +1,8 @@
 # LightningEX Games
-This codes does NOT belong to me. I am using this code as a base for my own games website.
+This code does NOT belong to me. I am using this code as a base for my own games website.
 
 The original creator is here: https://github.com/expgames
+The original repository is here: https://github.com/expgames/expired
 
 # Announcements:
 This area is where I will announce stuff, duh.
