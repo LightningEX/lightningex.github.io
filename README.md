@@ -6,5 +6,6 @@ The original creator is here: https://github.com/expgames
 # Announcements:
 This area is where I will announce stuff, duh.
 
-I was confused because the website broke. I later found out that its because I put it in a folder (I think, its still updating) :P. I'll keep working on this tommorrow if I can (I have finals tommorow! AHHH!).
-12.17.24
+Fixed the website!! Workin on this in class since i finsished my first final! Gonna work on this some more in an hour or two. Oh yeah, and im trying to add subway surfers! Wish me luck!!
+12.18.24
+10:04 AM MST
