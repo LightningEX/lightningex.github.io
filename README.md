@@ -8,8 +8,13 @@ The original repository is here: https://github.com/expgames/expired
 # Announcements:
 This area is where I will announce stuff, duh.
 
-I ALMOST got Subway Surfers up! There is one file that is 27MB, so its too big to upload through the Github website, which Im using. I'll see if I can download the desktop version but I might not be able to since Im doing all this from my school compute. If anyone was wondering, yes Im still in class and I juts finished my last final for today!
+I'm taking a break from trying to make the website work. The original owner of ExpGames and ExpiredGamez has taken down ExpiredGamez in response to me and my friends using the webpage.
+Expgames, I would like to remind you that ExpiredGamez was originally reopened for public use by you. We are the public.
+Expgames has challenged me and everyone who wishes to find their last website.
 
-12.18.24 
+Expgames, if you are reading this, challenge accecpted. I have been acting on the matter for a few days now and all I have to say is....
+Trust no one.
 
-1:27 PM MST
+1.9.25
+
+1:17 PM
